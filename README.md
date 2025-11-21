@@ -151,3 +151,4 @@ The Report. Generated automatically after calls.
 diagnostic.py
 
 The Doctor. Checks API keys and connections.
+<mxGraphModel><root><mxCell id="0"/><mxCell id="1" parent="0"/><mxCell id="2" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Agent Orchestrator" vertex="1"><mxGeometry height="54" width="197" x="548" y="681" as="geometry"/></mxCell></root></mxGraphModel>
