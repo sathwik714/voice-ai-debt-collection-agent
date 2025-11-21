@@ -154,4 +154,4 @@ The Doctor. Checks API keys and connections.
 
 ## System Architecture
 
-![Debt Collecting Agent Architecture](assets/debt-collecting-agent.png)
+![Debt Collecting Agent Architecture](assets/agent.png)
